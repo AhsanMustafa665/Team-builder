@@ -1,0 +1,85 @@
+.trow td:nth-child(2) {
+  color: #07072a;
+  font-weight: bold;
+}
+.trow2 td:nth-child(2) {
+  color: #07072a;
+  font-weight: bold;
+}
+.team {
+  display: flex;
+  align-items: center;
+  border: 3px solid #07072a;
+  width: 20rem;
+  margin-left: 30px;
+  margin-top: 20px;
+}
+.team img {
+  height: 5rem;
+  width: 5rem;
+}
+.team h4 {
+  margin: 0 10px;
+}
+.table {
+  width: 100%;
+}
+.team button {
+  background-color: white;
+  color: #07072a;
+  font-size: 20px;
+  border: 2px solid #07072a;
+  padding: 4px 6px;
+  border-radius: 5px;
+}
+.team button:hover {
+  background-color: white;
+  color: red;
+  border: 2px solid red;
+  cursor: pointer;
+  transition: all 0.3s;
+}
+
+@media only screen and (max-width: 480px) and (min-width: 320px) {
+  /* mobile-devices */
+  .trow > td:nth-child(1) {
+    text-align: center;
+  }
+  .trow > td:nth-child(2) {
+    text-align: left;
+  }
+  .trow2 > td:nth-child(1) {
+    text-align: center;
+  }
+  .trow2 > td:nth-child(2) {
+    text-align: left;
+  }
+}
+
+@media only screen and (max-width: 768px) and (min-width: 481px) {
+  /* iPads, Tablets */
+  .team {
+    display: flex;
+    align-items: center;
+    border: 3px solid #07072a;
+    width: 11rem;
+    margin-top: 20px;
+    padding-right: 15px;
+  }
+}
+
+@media only screen and (max-width: 1024px) and (min-width: 769px) {
+  /* small screens, laptops */
+  .team {
+    display: flex;
+    align-items: center;
+    border: 3px solid #07072a;
+    width: 15rem;
+    margin-top: 20px;
+    padding-right: 15px;
+  }
+}
+
+@media only screen and (min-width: 1024px) {
+  /* Desktops, large screens */
+}

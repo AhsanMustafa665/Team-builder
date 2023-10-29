@@ -1,0 +1,117 @@
+.student {
+  border: 2px solid #07072a;
+  text-align: center;
+  padding: 0 10px;
+  position: relative;
+  height: 100%;
+}
+.student:hover {
+  transition: 0.5s;
+  box-shadow: 0 4px 8px 0 #07072a, 0 6px 20px 0 #07072a;
+}
+.student img {
+  width: 40%;
+  height: 23%;
+  border-radius: 50%;
+  border: 2px solid #07072a;
+  margin-top: 10px;
+}
+table {
+  padding-left: 10px;
+  margin-top: 10px;
+}
+td {
+  padding: 0 5px !important;
+}
+tr td:nth-child(1) {
+  color: #07072a;
+  border-right: 2px solid #07072a;
+  text-align: right;
+  font-weight: 900;
+}
+tr td:nth-child(2) {
+  text-align: left;
+}
+.student-info {
+  line-height: 0.3;
+}
+.student-info button {
+  background-color: #07072a;
+  border: 2px solid #07072a;
+  padding: 7px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+  font-weight: 700;
+  font-family: "Playpen Sans", cursive;
+  position: absolute;
+  bottom: 0;
+  width: 70%;
+  display: block;
+  margin-bottom: 10px;
+}
+.student-info button:hover {
+  background-color: white;
+  color: #07072a;
+  border: 2px solid #07072a;
+  transition: all 0.2s;
+}
+.social-icon {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 10px 0;
+  margin-bottom: 10px;
+}
+.social-icon .fa-phone {
+  margin: 0 10px;
+}
+.fa-phone,
+.fa-facebook,
+.fa-envelope {
+  background-color: #07072a;
+  padding: 10px;
+  border-radius: 50%;
+  cursor: pointer;
+  border: 2px solid #07072a;
+  font-size: 15px;
+}
+.fa-phone:hover,
+.fa-facebook:hover,
+.fa-envelope:hover {
+  background-color: white;
+  color: #07072a;
+  border: 2px solid #07072a;
+  transition: all 0.2s;
+}
+.social-icon {
+  font-size: 13px;
+  color: white;
+}
+
+@media only screen and (max-width: 480px) and (min-width: 320px) {
+  /* mobile-devices */
+  .student {
+    margin: 0 20px 12px 20px;
+  }
+  .student img {
+    width: 30%;
+    height: 30%;
+    border-radius: 10%;
+    margin-top: 10px;
+  }
+}
+
+@media only screen and (max-width: 768px) and (min-width: 481px) {
+  /* iPads, Tablets */
+  .student {
+    width: 100%;
+  }
+}
+
+@media only screen and (max-width: 1024px) and (min-width: 769px) {
+  /* small screens, laptops */
+}
+
+@media only screen and (min-width: 1024px) {
+  /* Desktops, large screens */
+}
