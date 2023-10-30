@@ -8,7 +8,7 @@ const Students = () => {
   const [loadStudents, setLoadStudents] = useState(false);
   useEffect(() => {
     if (loadStudents === true) {
-      fetch("/public/data.json")
+      fetch("/data.json")
         .then((res) => res.json())
         .then((data) => setStudents(data));
     }
@@ -16,13 +16,10 @@ const Students = () => {
 
   const [teamList, setTeamList] = useState([]);
   const loadSingleStu = (student) => {
-    // const newStudent = [...teamList, student];
-    // setTeamList(newStudent);
     let filteredList = teamList.filter((std) => std.id !== student.id);
     const newList = [...filteredList, student];
     setTeamList(newList);
   };
-  // const [deleteMem, setDeleteMem] = useState([]);
   const deleteMember = (member) => {
     const filtered = teamList.filter((t) => t.id !== member);
     setTeamList(filtered);

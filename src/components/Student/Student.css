@@ -3,6 +3,7 @@
   text-align: center;
   padding: 0 10px;
   position: relative;
+  line-height: 17px;
   height: 100%;
 }
 .student:hover {
@@ -10,8 +11,8 @@
   box-shadow: 0 4px 8px 0 #07072a, 0 6px 20px 0 #07072a;
 }
 .student img {
-  width: 40%;
-  height: 23%;
+  width: 50%;
+  height: 30%;
   border-radius: 50%;
   border: 2px solid #07072a;
   margin-top: 10px;
@@ -31,9 +32,6 @@ tr td:nth-child(1) {
 }
 tr td:nth-child(2) {
   text-align: left;
-}
-.student-info {
-  line-height: 0.3;
 }
 .student-info button {
   background-color: #07072a;
@@ -59,8 +57,7 @@ tr td:nth-child(2) {
   display: flex;
   justify-content: center;
   align-items: center;
-  margin: 10px 0;
-  margin-bottom: 10px;
+  margin: 10px 0 -20px 0;
 }
 .social-icon .fa-phone {
   margin: 0 10px;
@@ -92,6 +89,7 @@ tr td:nth-child(2) {
   /* mobile-devices */
   .student {
     margin: 0 20px 12px 20px;
+    padding-bottom: 30px;
   }
   .student img {
     width: 30%;

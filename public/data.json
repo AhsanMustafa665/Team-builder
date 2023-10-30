@@ -1,6 +1,6 @@
 [
   {
-    "email": "../src/jsonPhotos/no-email.gif",
+    "email": "/jsonPhotos/no-email.gif",
     "name": "Antu Ahmed",
     "mobile": "tel:017XXXXXXXX",
     "facebook": "https://www.facebook.com/md.silencer.58",
@@ -8,10 +8,10 @@
     "department": "Computer",
     "id": 29240,
     "budget": 100,
-    "img": "../src/jsonPhotos/antu.jpg"
+    "img": "/jsonPhotos/antu.jpg"
   },
   {
-    "email": "../src/jsonPhotos/no-email.gif",
+    "email": "/jsonPhotos/no-email.gif",
     "name": "Md Faisal rahman",
     "mobile": "tel:017XXXXXXXX",
     "facebook": "https://cyber-bird.tech/profile",
@@ -19,10 +19,10 @@
     "department": "Computer ",
     "id": 29241,
     "budget": 200,
-    "img": "../src/jsonPhotos/faisal.jpg"
+    "img": "/jsonPhotos/faisal.jpg"
   },
   {
-    "email": "../src/jsonPhotos/no-email.gif",
+    "email": "/jsonPhotos/no-email.gif",
     "name": "Mamun Islam",
     "mobile": "tel:017XXXXXXXX",
     "facebook": "https://www.facebook.com/mamun.islam.9041/",
@@ -30,10 +30,10 @@
     "department": "Computer",
     "id": 29242,
     "budget": 100,
-    "img": "../src/jsonPhotos/mamun.jpg"
+    "img": "/jsonPhotos/mamun.jpg"
   },
   {
-    "email": "../src/jsonPhotos/no-email.gif",
+    "email": "/jsonPhotos/no-email.gif",
     "name": "Mir Neehar",
     "mobile": "tel:017XXXXXXXX",
     "facebook": "https://www.facebook.com/akake.mon.7549/",
@@ -41,7 +41,7 @@
     "department": "Computer",
     "id": 29243,
     "budget": 500,
-    "img": "../src/jsonPhotos/mir.jpg"
+    "img": "/jsonPhotos/mir.jpg"
   },
   {
     "email": "ahsanfaisal665@gmail.com",
@@ -52,10 +52,10 @@
     "department": "Computer",
     "id": 29244,
     "budget": 400,
-    "img": "../src/jsonPhotos/mostafa.jpg"
+    "img": "/jsonPhotos/mostafa.jpg"
   },
   {
-    "email": "../src/jsonPhotos/no-email.gif",
+    "email": "/jsonPhotos/no-email.gif",
     "name": "Md Munna",
     "mobile": "tel:017XXXXXXXX",
     "facebook": "https://www.facebook.com/profile.php?id=100077113495044",
@@ -63,10 +63,10 @@
     "department": "Computer",
     "id": 29245,
     "budget": 786,
-    "img": "../src/jsonPhotos/munna.jpg"
+    "img": "/jsonPhotos/munna.jpg"
   },
   {
-    "email": "../src/jsonPhotos/no-email.gif",
+    "email": "/jsonPhotos/no-email.gif",
     "name": "Sagor Islam",
     "mobile": "tel:017XXXXXXXX",
     "facebook": "https://www.facebook.com/profile.php?id=100021387436845",
@@ -74,10 +74,10 @@
     "department": "Computer ",
     "id": 29246,
     "budget": 502,
-    "img": "../src/jsonPhotos/sagor.jpg"
+    "img": "/jsonPhotos/sagor.jpg"
   },
   {
-    "email": "../src/jsonPhotos/no-email.gif",
+    "email": "/jsonPhotos/no-email.gif",
     "name": "Sajedur Rahman",
     "mobile": "tel:017XXXXXXXX",
     "facebook": "https://www.facebook.com/profile.php?id=100020942173775",
@@ -85,10 +85,10 @@
     "department": "Computer",
     "id": 29247,
     "budget": 686,
-    "img": "../src/jsonPhotos/sajedur.jpg"
+    "img": "/jsonPhotos/sajedur.jpg"
   },
   {
-    "email": "../src/jsonPhotos/no-email.gif",
+    "email": "/jsonPhotos/no-email.gif",
     "name": "Samin Yasar",
     "mobile": "tel:017XXXXXXXX",
     "facebook": "https://www.facebook.com/mdsamin.yasar.90",
@@ -96,10 +96,10 @@
     "department": "Computer",
     "id": 29248,
     "budget": 766,
-    "img": "../src/jsonPhotos/samim.jpg"
+    "img": "/jsonPhotos/samim.jpg"
   },
   {
-    "email": "../src/jsonPhotos/no-email.gif",
+    "email": "/jsonPhotos/no-email.gif",
     "name": "Md. Shakil Khan",
     "mobile": "tel:017XXXXXXXX",
     "facebook": "https://www.facebook.com/md.shakilkhan.948",
@@ -107,10 +107,10 @@
     "department": "Computer",
     "id": 29249,
     "budget": 587,
-    "img": "../src/jsonPhotos/shakil.jpg"
+    "img": "/jsonPhotos/shakil.jpg"
   },
   {
-    "email": "../src/jsonPhotos/no-email.gif",
+    "email": "/jsonPhotos/no-email.gif",
     "name": "MD. SHAIDUL ISLAM",
     "mobile": "tel:017XXXXXXXX",
     "facebook": "https://www.facebook.com/mdshaidul.islam.967806",
@@ -118,10 +118,10 @@
     "department": "Computer",
     "id": 29250,
     "budget": 687,
-    "img": "../src/jsonPhotos/shaidul.jpg"
+    "img": "/jsonPhotos/shaidul.jpg"
   },
   {
-    "email": "../src/jsonPhotos/no-email.gif",
+    "email": "/jsonPhotos/no-email.gif",
     "name": "Md. Shihab Hossen",
     "mobile": "tel:017XXXXXXXX",
     "facebook": "https://www.facebook.com/shihab.hossen1",
@@ -129,10 +129,10 @@
     "department": "Coumputer",
     "id": 29251,
     "budget": 456,
-    "img": "../src/jsonPhotos/shihab.jpg"
+    "img": "/jsonPhotos/shihab.jpg"
   },
   {
-    "email": "../src/jsonPhotos/no-email.gif",
+    "email": "/jsonPhotos/no-email.gif",
     "name": "Md Shohag Hossen",
     "mobile": "tel:017XXXXXXXX839689546",
     "facebook": "https://www.facebook.com/smshohag.hossen.790/",
@@ -140,6 +140,6 @@
     "department": "Computer ",
     "id": 29252,
     "budget": 686,
-    "img": "../src/jsonPhotos/sohag.jpg"
+    "img": "/jsonPhotos/sohag.jpg"
   }
 ]
